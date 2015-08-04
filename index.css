@@ -1,0 +1,27 @@
+ 
+    body {
+      text-align: center;
+      background: url("http://th00.deviantart.net/fs71/PRE/f/2012/228/b/5/lion_vs_wolf_by_trueart_by_atrueart-d5bd1d9.jpg");
+      background-size: cover;
+      background-position: center;
+      color: black;
+      font-family: helvetica;
+    }
+    p {
+      font-size: 22px;
+    }
+    input {
+      border: 0;
+      padding: 10px;
+      font-size: 18px;
+    }
+    input[type="submit"] {
+      background: red;
+      color: white;
+    }
+    img {
+        height: 370px;
+        width: 500px;
+        display: inline-block;
+    } 
+ 
